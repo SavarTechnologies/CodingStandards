@@ -20,8 +20,8 @@
 | SNo     | PascalCase   | CamelCase    | LowerCase    | upperCase     |
 |:--------|:-----------  |:-------------|:-----------  |:--------------|
 | Ex:- 1  | FirstName    | firstName    | firstname    | FIRSTNAME     |
-| Ex:- 2  | LastName     | lastName     | lastName     | LASTNAME      |
-| Ex:- 3  | NameOfTheDay | nameOfTheDay | nameOfTheDay | NAMEOFTHEDAY  |
+| Ex:- 2  | LastName     | lastName     | lastname     | LASTNAME      |
+| Ex:- 3  | NameOfTheDay | nameOfTheDay | nameoftheday | NAMEOFTHEDAY  |
 
 #### 1. Do use PascalCasing for class names and method names:
 
